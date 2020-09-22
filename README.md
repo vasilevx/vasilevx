@@ -1,4 +1,6 @@
 ### Hi there 👋
+- ❤️ Mostly front-end
+- 📚 But also some learning projects
 
 <!--
 **vasilevx/vasilevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
