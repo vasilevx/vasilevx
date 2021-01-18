@@ -5,6 +5,8 @@
 ### Contacts:
 - Telegram - [@deshibasara](https://t.me/deshibasara)
 
+![](https://komarev.com/ghpvc/?username=vasilevx&color=ff69b4)
+
 <!--
 **vasilevx/vasilevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
